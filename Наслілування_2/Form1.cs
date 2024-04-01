@@ -15,7 +15,7 @@ namespace Наслілування_2
     public partial class Form1 : Form
     {
         List<Figure> figures = new List<Figure>();
-
+         
         public class Figure
         {
             public string Type { get; set; }
